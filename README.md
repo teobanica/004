@@ -14,7 +14,21 @@ A graph $X$ has no quantum symmetry when its quantum automorphism group $G^+(X)$
 
 - `004.pdf` — the paper (30 pages)
 - `004.tex` — its LaTeX source (self-contained; compile with `pdflatex`, twice)
-- `code/` — every script behind the computational statements, with their output logs. `code/README.md` maps the scripts to the sections and statements of the paper.
+- the `.py` files — every script behind the computational statements, each with its output `.log` file
+
+| Script | What it does | Paper |
+|---|---|---|
+| `schur.py` | Tools: abelian groups, coherent closure, automorphism counting | all |
+| `linked.py` | Linked pairs of characters, Lemma 3.1 and Theorem 3.4 | Sections 2, 3, 5 |
+| `dihedral.py` | Proportion of Cayley graphs of dihedral type | Section 4 (table) |
+| `normal.py` | Circulant graphs with dihedral automorphism group | Section 4 |
+| `primepower.py` | Circulant graphs with $p^n$ vertices, Theorem 5.3 | Section 5 (table) |
+| `rigid.py` | Commutative relations, Lemmas 6.2 and 6.3, bounds of Theorems 8.1 and 8.2 | Sections 6, 8 |
+| `bichon.py` | Quantum group of Bichon, circulant graphs up to 20 vertices | Section 7 |
+| `transitive.py` | Transitive groups acting on cosets, Theorem 8.1 | Section 8 |
+| `pseudocyclic.py` | Pseudocyclic schemes, Theorem 8.3 | Section 8 |
+| `schmidt.py` | Schmidt alternative for the circulant graphs up to 43 vertices | Section 8 (table) |
+| `examples.py` | The explicit graphs quoted in the paper | Sections 1, 3, 5 |
 
 ## Running the code
 
