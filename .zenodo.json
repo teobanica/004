@@ -1,17 +1,11 @@
-title	"Cayley graphs of abelian groups and their quantum symmetries"
-description	"Paper (30 pages, PDF and LaTeX source) and the complete code behind its computational statements. Building on the recent work of Marashdeh on the circulant graphs of prime order, we study the quantum symmetries of the Cayley graphs of the finite abelian groups A. The main result states that if the coherent algebra is the orbital algebra of A &#8906; E, with |E| = k and with the non-trivial elements of E having at most m fixed points, then the graph has no quantum symmetry when |A| &ge; k^2 m. The circulant graphs with p^n vertices, n &ge; 2, which have quantum symmetry are classified, and so are the Cayley graphs of type E = {&plusmn;1}. Beyond Cayley graphs, a method of rigid triangles gives similar results for the graphs coming from transitive permutation groups, and for the vertex-transitive graphs whose coherent algebra has valencies 1, 2. We conjecture that a circulant graph has quantum symmetry if and only if it has 2 non-trivial automorphisms with disjoint supports, and we verify this for the graphs having at most 43 vertices. The quantum automorphism group of Bichon and the quantum isomorphisms of graphs are discussed as well."
-upload_type	"publication"
-publication_type	"preprint"
-creators	
-0	
-name	"Banica, Teo"
-orcid	"0000-0003-4680-0364"
-1	
-name	"Fable, Claude"
-keywords	
-0	"quantum permutation groups"
-1	"quantum automorphism groups of graphs"
-2	"Cayley graphs"
-3	"circulant graphs"
-4	"coherent algebras"
-5	"Schur rings"
+{
+  "title": "Cayley graphs of abelian groups and their quantum symmetries",
+  "description": "Paper (30 pages, PDF and LaTeX source) and the complete code behind its computational statements. Building on the recent work of Marashdeh on the circulant graphs of prime order, we study the quantum symmetries of the Cayley graphs of the finite abelian groups A. The main result states that if the coherent algebra is the orbital algebra of A &#8906; E, with |E| = k and with the non-trivial elements of E having at most m fixed points, then the graph has no quantum symmetry when |A| &ge; k^2 m. The circulant graphs with p^n vertices, n &ge; 2, which have quantum symmetry are classified, and so are the Cayley graphs of type E = {&plusmn;1}. Beyond Cayley graphs, a method of rigid triangles gives similar results for the graphs coming from transitive permutation groups, and for the vertex-transitive graphs whose coherent algebra has valencies 1, 2. We conjecture that a circulant graph has quantum symmetry if and only if it has 2 non-trivial automorphisms with disjoint supports, and we verify this for the graphs having at most 43 vertices. The quantum automorphism group of Bichon and the quantum isomorphisms of graphs are discussed as well.",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {"name": "Banica, Teo", "orcid": "0000-0003-4680-0364"},
+    {"name": "Fable, Claude"}
+  ],
+  "keywords": ["quantum permutation groups", "quantum automorphism groups of graphs", "Cayley graphs", "circulant graphs", "coherent algebras", "Schur rings"]
+}
