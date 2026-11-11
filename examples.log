@@ -1,0 +1,6 @@
+Cay(Z_25, {+-1,+-7}): rank of coherent algebra = 7, number of orbitals of Z_N x| E = 7, |Aut| = 100, N|E| = 100
+Cay(Z_49, {+-1,+-18,+-19}): rank of coherent algebra = 9, number of orbitals of Z_N x| E = 9, |Aut| = 294, N|E| = 294
+Cay(Z_65, {+-1,+-8}): rank of coherent algebra = 17, number of orbitals of Z_N x| E = 17, |Aut| = 260, N|E| = 260
+Cay(Z_93, {+-1,+-25,+-26}): rank of coherent algebra = 17, number of orbitals of Z_N x| E = 17
+K_33 = Cay(Z_6, {1,3,5}): rank of coherent algebra = 3, number of orbitals of Z_N x| E = 4, |Aut| = 72, N|E| = 12
+C_4: rank of coherent algebra = 3, number of orbitals of Z_N x| E = 3, |Aut| = 8, N|E| = 8

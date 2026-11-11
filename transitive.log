@@ -1,0 +1,8 @@
+PSL(2,7) / Z_2               |G|= 168 N= 84 k=2 m=4 rank=44 bound= 16 applies=True  all commutative=True  graph with this algebra: valency 68
+PSL(2,7) / Z_3               |G|= 168 N= 56 k=3 m=2 rank=20 bound= 22 applies=True  all commutative=True  graph with this algebra: valency 37
+A_5 / Z_2                    |G|=  60 N= 30 k=2 m=2 rank=16 bound=  8 applies=True  all commutative=True  graph with this algebra: valency 22
+A_5 / Z_3                    |G|=  60 N= 20 k=3 m=2 rank= 8 bound= 22 applies=False all commutative=True  graph with this algebra: valency 13
+S_5 / <(12)>                 |G|= 120 N= 60 k=2 m=6 rank=33 bound= 24 applies=True  all commutative=True  graph with this algebra: valency 48
+S_5 / <(12)(34)>             |G|= 120 N= 60 k=2 m=4 rank=32 bound= 16 applies=True  all commutative=True  graph with this algebra: valency 41
+S_5 / <(123)>                |G|= 120 N= 40 k=3 m=4 rank=16 bound= 46 applies=False all commutative=True  graph with this algebra: valency 23
+S_4 / Z_2 (transposition)    |G|=  24 N= 12 k=2 m=2 rank= 7 bound=  8 applies=True  all commutative=True  graph with this algebra: valency 8

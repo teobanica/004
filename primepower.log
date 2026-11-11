@@ -1,0 +1,9 @@
+N=  4 (all S): quantum symmetry (Q): 4, no quantum symmetry (T): 0, both: 0, neither: 0;  types |E|: {}
+N=  8 (all S): quantum symmetry (Q): 8, no quantum symmetry (T): 8, both: 0, neither: 0;  types |E|: {2: 8}
+N=  9 (all S): quantum symmetry (Q): 4, no quantum symmetry (T): 12, both: 0, neither: 0;  types |E|: {2: 12}
+N= 16 (all S): quantum symmetry (Q): 64, no quantum symmetry (T): 192, both: 0, neither: 0;  types |E|: {2: 192}
+N= 25 (all S): quantum symmetry (Q): 16, no quantum symmetry (T): 4080, both: 0, neither: 0;  types |E|: {2: 4020, 4: 60}
+N= 27 (all S): quantum symmetry (Q): 128, no quantum symmetry (T): 8064, both: 0, neither: 0;  types |E|: {2: 8064}
+N= 32 (400 random S): quantum symmetry (Q): 17, no quantum symmetry (T): 383, both: 0, neither: 0;  types |E|: {2: 383}
+N= 49 (400 random S): quantum symmetry (Q): 0, no quantum symmetry (T): 400, both: 0, neither: 0;  types |E|: {2: 400}
+N=125 (60 random S): quantum symmetry (Q): 0, no quantum symmetry (T): 60, both: 0, neither: 0;  types |E|: {2: 60}

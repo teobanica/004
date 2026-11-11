@@ -1,0 +1,24 @@
+A=Z12              N= 12  (all S)     saturated spectrum:  19.4%   dihedral type:  51.6%
+A=Z16              N= 16  (all S)     saturated spectrum:  50.4%   dihedral type:  75.6%
+A=Z24              N= 24  (299 S)     saturated spectrum:  15.7%   dihedral type:  72.6%
+A=Z36              N= 36  (300 S)     saturated spectrum:  25.3%   dihedral type:  91.3%
+A=Z60              N= 60  (150 S)     saturated spectrum:  23.3%   dihedral type:  99.3%
+A=Z81              N= 81  (60 S)      saturated spectrum:  96.7%   dihedral type: 100.0%
+A=Z100             N=100  (60 S)      saturated spectrum:  63.3%   dihedral type: 100.0%
+A=Z128             N=128  (40 S)      saturated spectrum:  90.0%   dihedral type: 100.0%
+A=Z3xZ3            N=  9  (all S)     saturated spectrum:   0.0%   dihedral type:   0.0%
+A=Z3xZ3xZ3         N= 27  (300 S)     saturated spectrum:   0.0%   dihedral type:   0.0%
+A=Z3xZ3xZ3xZ3      N= 81  (60 S)      saturated spectrum:   0.0%   dihedral type:  85.0%
+A=Z5xZ5            N= 25  (300 S)     saturated spectrum:   0.0%   dihedral type:  23.0%
+A=Z7xZ7            N= 49  (150 S)     saturated spectrum:   5.3%   dihedral type:  94.0%
+A=Z9xZ9            N= 81  (60 S)      saturated spectrum:   1.7%   dihedral type: 100.0%
+A=Z11xZ11          N=121  (40 S)      saturated spectrum:  85.0%   dihedral type: 100.0%
+A=Z5xZ5xZ5         N=125  (40 S)      saturated spectrum:   0.0%   dihedral type: 100.0%
+A=Z2xZ2xZ2xZ2      N= 16  (300 S)     saturated spectrum:   0.0%   dihedral type:   0.0%
+A=Z2xZ2xZ2xZ2xZ2   N= 32  (300 S)     saturated spectrum:   0.0%   dihedral type:  10.0%
+A=Z2xZ2xZ2xZ2xZ2xZ2 N= 64  (120 S)     saturated spectrum:   0.0%   dihedral type:  95.8%
+A=Z2xZ2xZ2xZ2xZ2xZ2xZ2 N=128  (40 S)      saturated spectrum:   0.0%   dihedral type: 100.0%
+A=Z4xZ2xZ2         N= 16  (300 S)     saturated spectrum:   0.0%   dihedral type:   0.0%
+A=Z4xZ2xZ2xZ2      N= 32  (300 S)     saturated spectrum:   0.0%   dihedral type:  14.3%
+A=Z4xZ2xZ2xZ2xZ2   N= 64  (60 S)      saturated spectrum:   0.0%   dihedral type:  83.3%
+A=Z4xZ4xZ4         N= 64  (120 S)     saturated spectrum:   0.0%   dihedral type:  74.2%
